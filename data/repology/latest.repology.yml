@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: renux
+  binname: renux
+  visiblename: renux
+  version: 0.4.1
+  origversion: 0.4.1-1
+  status: unique
+  summary: A terminal-based bulk file renamer with a TUI
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
