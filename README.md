@@ -4,7 +4,7 @@
 
 A terminal-based bulk file renamer with a TUI
 
-[![x-cmd/install — renux Code Quality Monitoring Repo Card](https://repo.x-cmd.io/renux.svg)](https://x-cmd.com/install/renux)
+[![x-cmd/install — renux Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/renux.svg)](https://x-cmd.com/install/renux)
 
 ## Install
 
@@ -45,12 +45,12 @@ Total: **2,107** lines of code across **36** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 3 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-24 | 6 | 20 | 0 | 7 | 0 | 50 |
-| 90d | 2026-06-24 | 6 | 22 | 0 | 7 | 0 | 52 |
-| last180d | 2026-03-26 | 6 | 31 | 0 | 7 | 0 | 61 |
-| 360d | 2025-09-27 | 6 | 44 | 0 | 8 | 0 | 75 |
-| last720d | 2024-10-02 | 6 | 48 | 0 | 9 | 0 | 169 |
+| 30d | 2026-08-24 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-25 | 6 | 20 | 0 | 7 | 0 | 50 |
+| 90d | 2026-06-25 | 6 | 22 | 0 | 7 | 0 | 52 |
+| last180d | 2026-03-27 | 6 | 31 | 0 | 7 | 0 | 61 |
+| 360d | 2025-09-28 | 6 | 44 | 0 | 8 | 0 | 75 |
+| last720d | 2024-10-03 | 6 | 48 | 0 | 9 | 0 | 169 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for renux lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:06:16Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:13:15Z._
