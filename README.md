@@ -45,12 +45,12 @@ Total: **2,107** lines of code across **36** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 2 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-29 | 6 | 17 | 0 | 7 | 0 | 11 |
-| 90d | 2026-06-29 | 6 | 22 | 0 | 7 | 0 | 52 |
-| last180d | 2026-03-31 | 6 | 31 | 0 | 7 | 0 | 61 |
-| 360d | 2025-10-02 | 6 | 44 | 0 | 8 | 0 | 75 |
-| last720d | 2024-10-07 | 6 | 48 | 0 | 9 | 0 | 169 |
+| 30d | 2026-08-29 | 0 | 2 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-30 | 5 | 17 | 0 | 7 | 0 | 11 |
+| 90d | 2026-06-30 | 6 | 22 | 0 | 7 | 0 | 52 |
+| last180d | 2026-04-01 | 6 | 31 | 0 | 7 | 0 | 61 |
+| 360d | 2025-10-03 | 6 | 44 | 0 | 8 | 0 | 75 |
+| last720d | 2024-10-08 | 6 | 48 | 0 | 9 | 0 | 169 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for renux lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:11:13Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:23:45Z._
